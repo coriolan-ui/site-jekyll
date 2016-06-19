@@ -1,8 +1,16 @@
-# Coriolan UI [![npm](https://img.shields.io/npm/v/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui) [![npm](https://img.shields.io/npm/dt/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+# Site of Coriolan UI on Jekyll
 
-Site of Coriolan UI
+Web development of Coriolan UI site on [Jekyll](https://jekyllrb.com) - simple, blog-aware, static site generator.
 
-[coriolan-ui.github.io](https://coriolan-ui.github.io)
+[Coriolan UI](https://github.com/coriolan-ui/coriolan-ui) - scss front-end framework.
+
+### Run
+
+`npm i`
+
+`gulp`
+
+Proudly hosted by [GitHub Pages](https://pages.github.com)
 
 <img src="http://coriolan-ui.github.io/assets/img/coriolan-ui-logo.svg"
 style="
