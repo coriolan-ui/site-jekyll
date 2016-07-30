@@ -1,2 +1,2 @@
-baseurl:
+baseurl: /coriolan-ui-jekyll
 exclude: ['README.md', 'node_modules', 'gulpfile.js', 'package.json']
