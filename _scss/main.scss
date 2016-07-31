@@ -1,4 +1,8 @@
-@import 'base';
-@import 'header';
-@import 'hero';
-@import 'footer';
+// Vendor
+@import '../node_modules/coriolan-ui/coriolan-ui';
+
+// Site
+@import '-base';
+@import '_components/Header/style';
+@import '_components/Hero/style';
+@import '_components/Footer/style';

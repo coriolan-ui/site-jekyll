@@ -22,16 +22,15 @@ layout: compress
 <body>
 
     <div class="main-content">
-        {% include header.html %}
+        {% include Header/index.html %}
         <div class="main-content__inner">
             {{ content }}
         </div>
     </div>
 
-    {% include footer.html %}
+    {% include Footer/index.html %}
 
-    <script src="{{ site.baseurl }}/assets/js/vendor/jquery-1.11.3.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/all.min.js"></script>
 
     <script type="text/javascript">
         (function (d, w, c) {

@@ -8,11 +8,11 @@ Web development of Coriolan UI site on [Jekyll](https://jekyllrb.com) - simple, 
 
 `npm i`
 
-`gulp`
+`gulp watch`
 
 Proudly hosted by [GitHub Pages](https://pages.github.com)
 
-<img src="http://coriolan-ui.github.io/assets/img/coriolan-ui-logo.svg"
+<img src="https://coriolan-ui.github.io/coriolan-ui-jekyll/assets/img/coriolan-ui-logo.svg"
 style="
     display: block;
     width: 100%;
